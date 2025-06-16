@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DAPP=/home/prodat33333/repositories/warehouse_pp_ok
+    - export DAPP=/home/prodat33333/test-ray.prodatos.org
     - /bin/rsync -a public/ $DAPP
