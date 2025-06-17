@@ -47,11 +47,13 @@
 
     @stack('modals')
 
-    @livewireScripts
-    @stack('js-livewire')
+
 
     <script type="text/javascript" src="{{asset('/js/sweetalert2.min.js')}}"></script>
     <script type="text/javascript" src="{{asset('/js/sweetalert.min.js')}}"></script>
+
+    @livewireScripts
+    @stack('js-livewire')
 </body>
 
 </html>
