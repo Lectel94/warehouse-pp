@@ -15,7 +15,7 @@
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.0",
-        "openspout/openspout": "4.20",
+        "openspout/openspout": "4.30",
         "power-components/livewire-powergrid": "^6.4",
         "wireui/wireui": "^2.4"
     },
