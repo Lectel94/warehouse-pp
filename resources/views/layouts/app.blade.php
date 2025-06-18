@@ -42,9 +42,9 @@
     </div>
 
     @stack('modals')
-
-    @livewireScripts
     @stack('scripts')
+    @livewireScripts
+
 </body>
 
 </html>
